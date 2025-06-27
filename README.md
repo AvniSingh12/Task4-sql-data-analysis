@@ -15,5 +15,5 @@ Wrote queries using SELECT, WHERE, JOIN, GROUP BY, ORDER BY, Subqueries, Views
 Defined indexes for optimization
 
 Files Included:
-`task4_queries.sql`: All SQL queries
- `/screenshots`: Output of each query
+Task4_queries.sql: All SQL queries
+Screenshots: Output of each query
